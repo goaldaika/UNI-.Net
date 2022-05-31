@@ -1,0 +1,52 @@
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.exe
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.deps.json
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.runtimeconfig.json
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.runtimeconfig.dev.json
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\ref\MyConverter.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.pdb
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\FontAwesome.WPF.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter_MarkupCompile.cache
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter_MarkupCompile.lref
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.g.resources
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.AssemblyInfoInputs.cache
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.AssemblyInfo.cs
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.CopyComplete
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\ref\MyConverter.dll
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.pdb
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.genruntimeconfig.cache
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\App.baml
+C:\Users\Goal\source\repos\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.AssemblyReference.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.exe
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.deps.json
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.runtimeconfig.json
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.runtimeconfig.dev.json
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.dll
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\MyConverter.pdb
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\FontAwesome.WPF.dll
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.AssemblyReference.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\App.g.cs
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter_MarkupCompile.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter_MarkupCompile.lref
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\App.baml
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.g.resources
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.AssemblyInfoInputs.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.AssemblyInfo.cs
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.CoreCompileInputs.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.csproj.CopyComplete
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.dll
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\refint\MyConverter.dll
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.pdb
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\MyConverter.genruntimeconfig.cache
+C:\Back up\Back up\VS Solution\CurrencyConverter\MyConverter\obj\Debug\net5.0-windows\ref\MyConverter.dll

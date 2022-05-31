@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <Exchange RateIn="INR" RateOut="USD">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>67.027</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="EUR" RateOut="USD">
+    <MoneyIn>7500</MoneyIn>
+    <MoneyOut>8,703.139</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="EUR">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>4,308.790</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="EUR">
+    <MoneyIn>12500</MoneyIn>
+    <MoneyOut>10,771.975</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="EUR">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>4,307.927</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="EUR">
+    <MoneyIn>7000</MoneyIn>
+    <MoneyOut>6,037.251</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="EUR" RateOut="USD">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>5,797.340</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="INR">
+    <MoneyIn>12000</MoneyIn>
+    <MoneyOut>902,909.976</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="INR">
+    <MoneyIn>7000</MoneyIn>
+    <MoneyOut>526,697.486</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="USD" RateOut="EUR">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>4,414.500</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="EUR" RateOut="SAR">
+    <MoneyIn>5000</MoneyIn>
+    <MoneyOut>21,249.827</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="CZK" RateOut="VND">
+    <MoneyIn>1</MoneyIn>
+    <MoneyOut>964.262</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="CZK" RateOut="VND">
+    <MoneyIn>1050</MoneyIn>
+    <MoneyOut>1,021,289.605</MoneyOut>
+  </Exchange>
+  <Exchange RateIn="VND" RateOut="USD">
+    <MoneyIn>824425</MoneyIn>
+    <MoneyOut>35.606</MoneyOut>
+  </Exchange>
+</Root>

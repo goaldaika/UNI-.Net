@@ -1,0 +1,11 @@
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\bin\Debug\net5.0\RateLib2.deps.json
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\bin\Debug\net5.0\RateLib2.dll
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\bin\Debug\net5.0\ref\RateLib2.dll
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\bin\Debug\net5.0\RateLib2.pdb
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.AssemblyInfoInputs.cache
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.AssemblyInfo.cs
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.csproj.CoreCompileInputs.cache
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.dll
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\ref\RateLib2.dll
+C:\Users\Goal\source\repos\CurrencyConverter\RateLib2\obj\Debug\net5.0\RateLib2.pdb
